@@ -1,0 +1,32 @@
+{
+  "ratings": {
+    "job:bc7e667a1a73:specimen-04.png": {
+      "scores": {
+        "ambiguity": 1,
+        "mutation": 1,
+        "strangeness": 3,
+        "coherence": 3,
+        "potential": 3
+      },
+      "tags": [],
+      "favorite": true,
+      "note": "",
+      "updated_at": "2026-11-20T19:01:05.054967"
+    },
+    "job:d26667888425:specimen-05.png": {
+      "scores": {
+        "ambiguity": 0,
+        "mutation": 0,
+        "strangeness": 0,
+        "coherence": 0,
+        "potential": 0
+      },
+      "tags": [],
+      "favorite": true,
+      "note": "",
+      "updated_at": "2026-11-20T23:11:34.807751"
+    }
+  },
+  "imports": {},
+  "comparisons": []
+}
